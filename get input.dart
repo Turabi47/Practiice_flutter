@@ -7,7 +7,8 @@ void main() {
   // stdout.write("Enter a number\n");
   // int no1 = int.parse(stdin.readLineSync().toString());
   // int sqr = no1 * no1;
-  // stdout.write("Square of $no1 is $sqr");
+  // stdout.write("Square of $no1 is $sqr");something
+  int no3 = 34;
 
   stdout.write("Enter no1");
   int no1 = getIntValue();
