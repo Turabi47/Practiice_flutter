@@ -9,6 +9,7 @@ void main() {
   // int sqr = no1 * no1;
   // stdout.write("Square of $no1 is $sqr");something
   int no3 = 34;
+  int nothing = 43;
 
   stdout.write("Enter no1");
   int no1 = getIntValue();
