@@ -20,6 +20,7 @@ void main() {
   int sum = add(no1, no2);
 
   print("The sum of $no1 and $no2 is $sum");
+  stdout.write("Hello, day 3 or 4");
 
 }
 
@@ -29,4 +30,3 @@ int getIntValue() => int.parse(getStrValue());
 
 int add(int a, int b, [int c=0, int d=0]) => a+b+c+d;
 
-print("Hello, day 3 or 4")
