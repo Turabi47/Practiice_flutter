@@ -28,3 +28,5 @@ String getStrValue() => stdin.readLineSync().toString();
 int getIntValue() => int.parse(getStrValue());
 
 int add(int a, int b, [int c=0, int d=0]) => a+b+c+d;
+
+print("Hello, day 3 or 4")
