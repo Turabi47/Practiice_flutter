@@ -5,5 +5,5 @@ void main(){
   print(names1);
   // names1 = names2; cannot reassign in final
   // const is compile time constant but final is run time
-  print(names1);
+  print(names2);
 }
